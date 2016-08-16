@@ -1,0 +1,14 @@
+{
+  "name": "rsdn",
+  "version": "1.0.0",
+  "description": "resource, store, dispatcher, namespace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rsdn"
+  ],
+  "author": "cyveros@gmail.com",
+  "license": "ISC"
+}
