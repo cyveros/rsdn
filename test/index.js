@@ -11,6 +11,8 @@ describe('#rsdn', function(){
 		var ns = new Namespace();
 
 		expect(ns).to.be.instanceof(Namespace);
+		
+		expect(ns.getAll()).to.be.instanceof(Store);
 		// (ns.debug() instanceof Store).should.equal(true);
 	});
 });
